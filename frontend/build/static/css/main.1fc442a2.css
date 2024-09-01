@@ -1,0 +1,2 @@
+.grid{border:1px solid #ccc;flex-direction:column}.grid,.grid-row{display:flex}.grid-cell{border:1px solid #ddd;cursor:pointer;min-height:30px;min-width:60px;padding:8px;text-align:center;-webkit-user-select:none;user-select:none}.grid-cell input{border:none;height:100%;outline:none;padding:0;width:100%}.grid-cell.active{background-color:#eef}
+/*# sourceMappingURL=main.1fc442a2.css.map*/

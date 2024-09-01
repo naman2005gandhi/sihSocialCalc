@@ -1,0 +1,16 @@
+{
+    "short_name": "Sheets Clone",
+    "name": "Google Sheets Clone",
+    "icons": [
+      {
+        "src": "%PUBLIC_URL%/favicon.ico",
+        "sizes": "64x64",
+        "type": "image/x-icon"
+      }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#4CAF50",
+    "background_color": "#ffffff"
+  }
+  

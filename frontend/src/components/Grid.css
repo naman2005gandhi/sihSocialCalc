@@ -1,0 +1,47 @@
+/* src/components/Grid.css */
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto repeat(10, 1fr);
+  grid-template-rows: auto repeat(20, 1fr);
+  gap: 1px;
+  border: 1px solid #ccc;
+}
+
+.grid-header {
+  display: contents;
+}
+
+.grid-header-cell {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 4px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.grid-body {
+  display: contents;
+}
+
+.grid-row {
+  display: contents;
+}
+
+.grid-cell {
+  border: 1px solid #ccc;
+  padding: 4px;
+  text-align: center;
+  min-width: 50px;
+  min-height: 20px;
+  box-sizing: border-box;
+}
+
+.grid-cell.active {
+  background-color: #e0e0e0;
+}
+
+input {
+  width: 100%;
+  box-sizing: border-box;
+}

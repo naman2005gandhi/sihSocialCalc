@@ -1,0 +1,17 @@
+/* src/components/Dashboard.css */
+table {
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  
+  input {
+    width: 100%;
+    border: none;
+    text-align: center;
+  }
+  

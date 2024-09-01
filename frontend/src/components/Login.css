@@ -1,0 +1,23 @@
+/* src/components/Login.css */
+.login {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .continue-without-login {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .continue-without-login:hover {
+    background-color: #e0e0e0;
+  }
+  
